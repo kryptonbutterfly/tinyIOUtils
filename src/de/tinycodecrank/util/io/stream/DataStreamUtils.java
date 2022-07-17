@@ -5,8 +5,8 @@ import java.io.DataOutputStream;
 import java.io.IOException;
 import java.util.Objects;
 
-import de.tinycodecrank.monads.Opt;
 import de.tinycodecrank.monads.OptInt;
+import de.tinycodecrank.monads.opt.Opt;
 
 public class DataStreamUtils
 {
