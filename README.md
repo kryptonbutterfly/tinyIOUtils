@@ -6,7 +6,7 @@ utility for manipulating Streams.
 
 java version | library version | Download
 :----------: | :-------------: | :-------
-18+          | 1.0.0           | [tinyIOUtils.jar](https://github.com/tinycodecrank/tinyIOUtils/releases/download/1.0.0/tinyIOUtils.jar)
+18+          | 1.0.0           | [tinyIOUtils.jar](https://github.com/tinycodecrank/tinyIOUtils/releases/download/v1.0.0/tinyIOUtils.jar)
 
 ## Dependencies
 
