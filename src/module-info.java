@@ -1,8 +1,8 @@
-module de.tinycodecrank.IOUtils
+module kryptonbutterfly.IOUtils
 {
-	exports de.tinycodecrank.util.io.stream;
-
-	requires de.tinycodecrank.Functional;
-	requires transitive de.tinycodecrank.Monads;
-	requires de.tinycodecrank.mathUtils;
+	exports kryptonbutterfly.util.io.stream;
+	
+	requires kryptonbutterfly.Functional;
+	requires transitive kryptonbutterfly.Monads;
+	requires kryptonbutterfly.mathUtils;
 }

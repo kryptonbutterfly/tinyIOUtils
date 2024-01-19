@@ -1,12 +1,12 @@
-package de.tinycodecrank.util.io.stream;
+package kryptonbutterfly.util.io.stream;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.util.Objects;
 
-import de.tinycodecrank.monads.OptInt;
-import de.tinycodecrank.monads.opt.Opt;
+import kryptonbutterfly.monads.OptInt;
+import kryptonbutterfly.monads.opt.Opt;
 
 public class DataStreamUtils
 {

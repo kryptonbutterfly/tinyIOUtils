@@ -1,11 +1,11 @@
-package de.tinycodecrank.util.io.stream;
+package kryptonbutterfly.util.io.stream;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.util.function.IntConsumer;
 
-import de.tinycodecrank.math.utils.limit.OutOfBoundsException;
+import kryptonbutterfly.math.utils.limit.OutOfBoundsException;
 
 public class StreamUtils
 {
